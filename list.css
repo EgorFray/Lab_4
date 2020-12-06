@@ -1,0 +1,43 @@
+MANUAL
+{
+display:block;
+margin-top:12pt;
+}
+AUTHOR
+{
+display:block;
+font-style: italic;
+font-size: 14px;
+color: blue;
+}
+TITLE
+{
+display:block;
+text-transform: uppercase;
+font-size: 16px;
+color: black;
+}
+YEAR
+{
+display:block;
+font-style: italic;
+font-size: 14px;
+color: black;
+margin-left:15pt;
+}
+PAGES
+{
+display:block;
+text-decoration: underline;
+font-size: 12px;
+color: red;
+margin-left:15pt;
+}
+EDITION
+{
+display:block;
+font-size: 10px;
+font-family: Arial;
+color: black;
+margin-left:15pt;
+}
